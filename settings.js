@@ -2,21 +2,21 @@ const chalk = require("chalk")
 const fs = require("fs")
 //aumto presence update
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.wlcm = false
-global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false//auto kick spammer (true to on, false to off)
+global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
+global.antispam = true //auto kick spammer (true to on, false to off)
 //===============SETTING MENU==================\\
-global.thumbnail = 'https://files.catbox.moe/updilc.jpg'
-global.ig = 'Kenja'
-global.yt = 'kenjaa'
-global.ttowner = 'kenjaa'
-global.ownername = 'kenjaa'
-global.owner = ['6283840621899'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '6283840621899'
-global.socialm = 'GitHub: -'
-global.location = 'Indonesia' 
+global.thumbnail = 'https://files.catbox.moe/yehvv0.jpg'
+global.ig = '𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™'
+global.yt = '𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™'
+global.ttowner = '𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™'
+global.ownername = '𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™'
+global.owner = ['51941847465'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '51941847465'
+global.socialm = 'GitHub:𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™'
+global.location = 'Peru' 
 //========================setting Payment=====================\\
 global.nodana = '' // KOSONG KAN JIKA TIDAK ADA
 global.nogopay = '' // KOSONG KAN JIKA TIDAK ADA 
@@ -26,21 +26,21 @@ global.andana = 'gtw' // KOSONG KAN JIKA TIDAK ADA
 global.angopay = 'gtw' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = 'gtw' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
-global.botname = "Elaina-Botz"
-global.ownernumber = '6283840621899'
-global.botnumber = '6283840621899'
-global.ownername = 'kenjaa'
-global.ownerNumber = ["6283840621899@s.whatsapp.net"]
+global.botname = "𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™"
+global.ownernumber = '51941847465'
+global.botnumber = '51941847465'
+global.ownername = '𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™'
+global.ownerNumber = ["51941847465@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.wagc = ""
 global.saluran = ""
 global.themeemoji = '🪀'
-global.wm = "Elaina-Botz | Whatsapp Bot"
-global.botscript = 'di YouTube Kenjaa Wangsap' //script link
-global.packname = "Sticker By"
-global.author = "\n\n\n\n\nCreate by Sukuna\nYT : Kenjaa"
-global.creator = "6283840621899@s.whatsapp.net"
+global.wm = "𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™ | Whatsapp Bot"
+global.botscript = '𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™' //script link
+global.packname = "𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™"
+global.author = "\n\n\n\n\nCreate by 𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™\nYT : 𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂™"
+global.creator = "51941847465@s.whatsapp.net"
 //======================== CPANEL FITUR ===========================\\
 global.domain = '-' // Isi Domain Lu jangan kasih tanda / di akhir link
 global.apikey = '-' // Isi Apikey Plta Lu
@@ -187,7 +187,7 @@ global.rpg = {
 }
 
 //new
-global.prefix = ['','!','.','#','&']
+global.prefix = ['!','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 //media target
